@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## 👋 Hi I am Jacob Lorenzo
+- I am a fourth year undergrad computer science student
+- My graduation date is set for may 2025
+- Currently looking for an intership or work
 <!--
 **nimdoble/nimdoble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
